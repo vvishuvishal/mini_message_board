@@ -1,0 +1,17 @@
+*{
+    background-color:blanchedalmond;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+   
+
+}
+#messages{
+    text-align: center;
+    padding-right: 10%;
+}
+.main{
+   background-color: aquamarine;
+   width: auto;
+}
